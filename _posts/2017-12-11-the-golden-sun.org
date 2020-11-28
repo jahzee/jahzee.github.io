@@ -1,0 +1,114 @@
+#+COMMENT: -*- mode: org; mode:flyspell -*-
+
+* Export Configuration                                     :noexport:ARCHIVE:
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t title:t toc:nil
+#+OPTIONS: todo:t |:t
+#+OPTIONS: html-postamble:nil
+#+TITLE: The Golden Sun
+#+SUBTITLE: Written by Ellie Chang, Jasmine's 2nd-4th Grade Classmate
+#+DATE: <2017-12-17 Sun>
+#+AUTHOR: Ellie Chang
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 8.3.6)
+#+JEKYLL_TAGS: memorial hkis
+#+JEKYLL_CATEGORIES: poems
+
+* The Golden Sun
+#+BEGIN_VERSE
+Winter came
+Riding fast
+On bitter winds
+
+Ensnaring the sky
+With a net
+As dark as ink
+So that
+The Golden Sun
+Would never rise
+
+For years
+That canopy
+Of unending darkness
+Stood
+
+When one day
+The tips
+Of Dawn
+Could be seen
+And
+The Golden Sun
+Rose
+
+Glorious rays
+Forcing
+The darkness back
+Shining
+In full splendor
+And glory
+They painted
+The sky
+With their
+Golden brilliance
+
+Darkness could not
+Trap the sky
+For the sky
+Was home
+To
+The Golden Sun
+
+The Golden Sun,
+and Rose-fingered Dawn.
+Hand in hand,
+they cloaked the life-giving Earth,
+in crimson reds with yellow hues.
+
+Feel the crisp, refreshing wind,
+scatter those golden leaves,
+who shine so brightly,
+as if to match the Golden Sun.
+
+The Silver Moon,
+and velvety Dark Twilight.
+Hand in hand,
+they engulfed the flaming Earth,
+in frosted whites with icy hues.
+
+Feel the numbing, piercing wind,
+cut through those fragile frosted leaves,
+who are so brave and bold,
+to stand up to the harsh rule of the Silver Moon.
+
+And those brave, frosted leaves,
+Are swept up by the numbing wind,
+And lifted up to face the judgement,
+of the Silver Moon.
+
+And no matter how biting the glare of the Silver Moon is.
+And no matter how numbing the piercing wind is.
+Those frosted leaves shall not tremble nor bow down.
+They stand defiantly up to the might of the Silver Moon.
+
+As the frosted leaves braved the Silver Moon,
+the Golden Sun,
+and Rose-fingered Dawn,
+reached out with rays of gold,
+streaked with hues of red,
+to melt the frost,
+and to chase away,
+the Silver Moon and the Dark Twilight.
+
+And the frosted leaves,
+were touched by the Golden Sun’s glorious rays.
+But so high the piercing wind had lifted them,
+They were caught,
+in the holy embrace,
+of the angelic clouds.
+
+-- Ellie Chang, Jasmine's 2nd-4th Grade Classmate
+#+END_VERSE

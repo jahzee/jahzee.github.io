@@ -1,0 +1,44 @@
+#+COMMENT: -*- mode: org; mode:flyspell -*-
+
+* Export Configuration                                     :noexport:ARCHIVE:
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t title:t toc:nil
+#+OPTIONS: todo:t |:t
+#+OPTIONS: html-postamble:nil
+#+TITLE: Skinny Friend
+#+SUBTITLE: Written by Ellie Chang, Jasmine's 2nd-4th Grade Classmate
+#+DATE: <2014-12-25 Sun>
+#+AUTHOR: Ellie Chang
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 8.3.6)
+#+JEKYLL_TAGS: hkis
+#+JEKYLL_CATEGORIES: poems
+
+* Jasmine
+#+BEGIN_VERSE
+Jasmine is a sticky note,
+sticking with me from 2nd to 4th grade
+
+Jasmine is a horse
+with swift, long and fast legs
+carrying her over the course
+
+Jasmine is a comedian
+she whips up
+a whole lot of laughter
+when she's near
+
+Jasmine is a monkey
+she loved to swing from tree to tree
+with her long black hair trailing behind
+having fun all day
+
+But what Jasmine truly is
+is my great (but skinny) friend!
+
+-- Ellie Chang, Jasmine's 2nd-4th Grade Classmate
+#+END_VERSE
