@@ -1,4 +1,6 @@
 main:
+  - title: "Portfolio"
+    url: /portfolio
   - title: "A True Teacher"
     url: /speaches/a-true-teacher/
   - title: "Quotes"

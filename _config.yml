@@ -124,3 +124,19 @@ defaults:
       type: pages
     values:
       layout: single
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+    
