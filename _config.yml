@@ -82,6 +82,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jahzee"
+    - label: "Amazon"
+      icon: "fab fa-fw fa-amazon"
+      url: "https://www.amazon.com/Jasmine-L-Psaris/e/B08QZSMPXN"
+      
 
 footer:
   links:
@@ -91,6 +95,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jahzee"
+    - label: "Amazon"
+      icon: "fab fa-fw fa-amazon"
+      url: "https://www.amazon.com/Jasmine-L-Psaris/e/B08QZSMPXN"
 
 defaults:
   # all
