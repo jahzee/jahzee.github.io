@@ -54,10 +54,10 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#analytics:
-#  provider: "google"
-#  google:
-#    tracking_id: "UA-177360111-1"
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-177360111-2"
 
 # Plugins (previously gems:)
 plugins:
