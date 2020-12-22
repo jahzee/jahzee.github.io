@@ -111,7 +111,7 @@ defaults:
       title: " "
       header:
         overlay_image: /assets/images/trixie.jpg
-        overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+        overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
   # _posts
   - scope:
       path: ""
@@ -146,4 +146,5 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-    
+imagesurl: "/assets/images/"
+   
