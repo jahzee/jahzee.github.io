@@ -2,8 +2,8 @@
 title: "Egypt Book"
 excerpt: "Jasmine's Egypt Collection"
 header:
-  image: /assets/images/EgyptBook/p_000001.jpg
-  teaser: /assets/images/EgyptBook/p_000001.jpg
+  image: /assets/images/egyptBook/p_000001.jpg
+  teaser: /assets/images/egyptBook/p_000001.jpg
 ---
 <style>
  .image-gallery {overflow: auto; margin-left: -1%!important;}
@@ -16,8 +16,8 @@ header:
 
 <div class ="image-gallery">
 {% for name in filenames %}
-    <a href="{{ site.imagesurl}}{{"EgyptBook/"}}{{ name }}">
-      <img src="{{site.imagesurl}}{{"EgyptBook/"}}{{ name }} " alt="{{ name }}"/> 
+    <a href="{{ site.imagesurl}}{{"egyptBook/"}}{{ name }}">
+      <img src="{{site.imagesurl}}{{"egyptBook/"}}{{ name }} " alt="{{ name }}"/> 
       <span>{{ filename }}</span>
      </a>
  {% endfor %}
