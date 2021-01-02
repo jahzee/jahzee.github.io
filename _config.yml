@@ -142,7 +142,19 @@ defaults:
       
 # Collections
 collections:
-  portfolio:
+  paintBook:
+    output: true
+
+  pictureBook:
+    output: true
+
+  storyBook:
+    output: true
+
+  sketches:
+    output: true
+
+  galleries:
     output: true
     permalink: /:collection/:path/
 
