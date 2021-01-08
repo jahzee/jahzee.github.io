@@ -142,7 +142,7 @@ defaults:
       
 # Collections
 collections:
-  paintBook:
+  colorDrawing:
     output: true
 
   pictureBook:
