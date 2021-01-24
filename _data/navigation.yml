@@ -1,4 +1,6 @@
 main:
+  - title: "Poems"
+    url: /jasmine-poems
   - title: "Portfolio"
     url: /portfolio
   - title: "A True Teacher"
