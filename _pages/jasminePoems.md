@@ -1,5 +1,6 @@
 ---
 title: Poems 
+excerpt: "Poems by Jasmine"
 layout: collection
 permalink: /jasmine-poems/
 collection: portfolio 

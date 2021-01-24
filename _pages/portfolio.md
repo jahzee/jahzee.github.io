@@ -1,5 +1,6 @@
 ---
 title: Portfolio 
+excerpt: "Stories,drawings,paintings by Jasmine"
 layout: collection
 permalink: /portfolio/
 collection: portfolio 
