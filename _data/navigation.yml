@@ -1,4 +1,6 @@
 main:
+  - title: "Video Montage"
+    url: /video-montage
   - title: "Poems"
     url: /jasmine-poems
   - title: "Portfolio"
