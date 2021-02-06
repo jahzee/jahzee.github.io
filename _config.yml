@@ -154,6 +154,9 @@ collections:
   sketches:
     output: true
 
+  painting-sculpture:
+    output: true
+
   galleries:
     output: true
     permalink: /:collection/:path/

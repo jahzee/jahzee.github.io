@@ -8,18 +8,21 @@ entries_layout: grid
 classes: wide
 
 galleries:
-  - title: Jasmine's Sketch Collection
-    image: /assets/images/animalSketches/p1.jpg
-    url: /sketches/
-  - title: Jasmine's Picture Book Collection
+  - title: Picture Book Collection
     image: /assets/images/robotBook/p_000001.jpg
     url: /pictureBook/
-  - title: Jasmine's Colored Drawing Collection
+  - title: Painting and Sculpture Collection 
+    image: /assets/images/painting-sculpture/p2.jpg
+    url: /painting-sculpture/
+  - title: Story Book Collection
+    image: /assets/images/missingMorning/p0.jpg
+    url: /storyBook/
+  - title: Sketch Collection
+    image: /assets/images/animalSketches/p1.jpg
+    url: /sketches/
+  - title: Colored Drawing Collection
     image: /assets/images/self-portrait/jasmine_blue.jpg
     url: /colorDrawing/
-  - title: Jasmine's Story Book Collection
-    image: /assets/images/cowGirl/p0.jpg
-    url: /storyBook/
 
 ---
 
