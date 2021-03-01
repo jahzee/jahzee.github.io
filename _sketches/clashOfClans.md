@@ -22,7 +22,6 @@ header:
  {% for name in filenames %}
      <a href="{{ site.imagesurl }}{{"clashOfClansSketches/"}}{{ name }}">
 	 <img src="{{site.imagesurl}}{{"clashOfClansSketches/"}}{{ name }} " alt="{{ name }}"/>
-   	 <span>{{ filename }}</span>
     </a>
  {% endfor %}
 <br>

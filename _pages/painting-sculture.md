@@ -23,7 +23,6 @@ classes: wide
  {% for name in filenames %}
      <a href="{{ site.imagesurl }}{{"painting-sculpture/"}}{{ name }}">
 	 <img src="{{site.imagesurl}}{{"painting-sculpture/"}}{{ name }} " alt="{{ name }}"/>
-   	 <span>{{ filename }}</span>
     </a>
  {% endfor %}
 <br>

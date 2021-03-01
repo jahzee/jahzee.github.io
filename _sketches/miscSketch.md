@@ -15,14 +15,13 @@ header:
   .image-gallery a img {width: 100%; display: block;}
 </style>
   
-{% assign filenames="p1.jpg,p2.jpg,p3.jpg,p5.jpg,p4.jpg,p6.jpg,p7.jpg,p10.jpg,p9.jpg,p8.jpg" | split: "," %}
+{% assign filenames="p1.jpg,p2.jpg,p3.jpg,p5.jpg,p4.jpg,p6.jpg,p7.jpg,p10.jpg,p9.jpg,p8.jpg,p11.jpg" | split: "," %}
  
 <div class ="image-gallery">
 <br>	
  {% for name in filenames %}
      <a href="{{ site.imagesurl }}{{"miscSketches/"}}{{ name }}">
 	 <img src="{{site.imagesurl}}{{"miscSketches/"}}{{ name }} " alt="{{ name }}"/>
-   	 <span>{{ filename }}</span>
     </a>
  {% endfor %}
 <br>
