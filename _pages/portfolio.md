@@ -23,7 +23,7 @@ galleries:
   - title: Colored Drawing Collection
     image: /assets/images/self-portrait/jasmine_blue.jpg
     url: /colorDrawing/
-  - title: Drawings from Daily Note Book 
+  - title: Drawings From Jasmine's Note Book 
     image: /assets/images/notebook/p0.jpg
     url: /notebook/
 

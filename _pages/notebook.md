@@ -1,5 +1,5 @@
 ---
-title: "Drawings from Daily Note Book"
+title: "Note Book Drawings"
 layout: collection
 permalink: /notebook/
 collection: notebook 
