@@ -34,7 +34,7 @@ To pass the time between during chemotherapy treatments in [Queen Mary
 Hospital](https://www.ha.org.hk/qmh/)'s [Children's Cancer
 Center](https://paed.hku.hk/services/public_area/service/UPAM_K8_PE_001_Ward_Info.pdf),
 Jasmine enjoyed reading mystery novels.  Inspired to create her own,
-she wrote three stories about best friends Call and Bean (and a pet
+she wrote three stories about best friends Cally and Bean (and a pet
 hamster named Nams).  After drawing the illustrations, she worked with
 her mother and father to publish the stories. _Cally and Bean: Middle
 School Mysteries_ is available in
