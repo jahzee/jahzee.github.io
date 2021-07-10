@@ -41,15 +41,19 @@ School Mysteries_ is available in
 [English](https://www.amazon.com/Cally-Bean-Middle-School-Mysteries-ebook/dp/B077W1MH1T)
 and [Traditional
 Chinese](https://www.amazon.com/%E5%87%B1%E8%8E%89%E5%92%8C%E8%B1%86%E8%B1%86-Traditional-Jasmine-L-Psaris-ebook/dp/B08F6Z48RH).
+The book is dedicated "For everyone in K8N" which is the pediatric
+cancer ward on the North side of the 8th floor of Block K.
 
 
 # St. Baldricks
 
 Jasmine is a [St. Baldricks](https://www.stbaldricks.org/) [honored
-kid](https://www.stbaldricks.org/kids/jasminepsaris).  Over the past 6
-years, [teams](https://www.stbaldricks.org/teams/jasmine) shaving in
-Jasmine's honor have raised over $100,000 for pediatric cancer
-research.
+kid](https://www.stbaldricks.org/kids/jasminepsaris).  Since 2015,
+over $130,000 has been raised for pediatric cancer research by
+[teams](https://www.stbaldricks.org/teams/jasmine) shaving their heads
+bald in Jasmine's honor. All funds raised by the events hosted at the
+Hong Kong International School are donated to the [Children's Cancer
+Foundation](#hk-ccf).
 
 # Dragon Tales
 
@@ -60,7 +64,7 @@ issue](https://issuu.com/hkisadvancement/docs/final_hkis_dt_winter17_web/94).
 The article includes many pictures of Jasmine enjoying time with her
 friends and at school events.
 
-# MSK Support
+# MSK
 
 [MSK Kids](https://www.mskcc.org/pediatrics) [Child Life
 Services](https://www.mskcc.org/pediatrics/experience/life-pediatrics)
@@ -70,7 +74,10 @@ Page](http://mskcc.convio.net/goto/jasminepsaris) the [top funded
 campaign in
 2017](https://secure2.convio.net/mskcc/site/TR/GivingPages/AnnualGiving;jsessionid=00000000.app20018a?pg=complist&fr_id=2903).
 Over $100,000 has been raised to support the MSK Kids Child Life
-Services program.
+Services program.  A
+[plaque](https://www.youtube.com/watch?v=IbvJsB2oMcA) in Jasmine's
+memory has been placed in the main hall of [Memorial Sloan Kettering
+Cancer Center](https://goo.gl/maps/nXhpdeKG6Mp87r8S6).
 
 # D10
 
@@ -88,3 +95,21 @@ again.  The team renamed themselves "E-J's Bulls" in memory of Everett
 and Jasmine, dug deep, and [won the
 competition](https://thed10.com/blog/the-d10-nyc-2019-yearbook) with
 the three remaining athletes.
+
+# HK CCF
+
+Hong Kong's [Children's Cancer Foundation](https://www.ccf.org.hk/en/)
+provides caring services for young children with cancer as well as
+their families.  A few examples include the donation of books, toys,
+computers in the pediatric wards of government hospital. In addition,
+they have donated cots for family members to sleep on when staying at
+the hospital.  With the support of donations raised at Hong Kong
+St. Baldricks events, the CCF funds pediatric cancer research with the
+ultimate goal of eradicating the disease.  In appreciation for
+everything the CCF has achieved and in support of all Hong Kong
+pediatric cancer patients, the Psaris family has donated a
+self-driving, two-wheeled videoconferencing robot enabling patients to
+visit other children and rooms of the hospital -- even when confined
+to their beds.  The ["Jasmine"
+robot](https://www.youtube.com/watch?v=LPSswmWUUPM) became a surprise
+hit when Covid-19 prevented all in-person visits.
