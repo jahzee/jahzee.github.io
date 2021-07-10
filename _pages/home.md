@@ -5,6 +5,8 @@ author_profile: true
 excerpt: whose contagious laugh and indomitable spirit echo in our hearts
 permalink: /
 hidden: true
+toc: true
+toc_label: Contents
 ---
 
 # Scratch
