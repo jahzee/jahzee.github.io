@@ -85,7 +85,7 @@ Cancer Center](https://goo.gl/maps/nXhpdeKG6Mp87r8S6).
 
 Jasmine's fight caught the attention of four athletes competing in
 [the D10](https://thed10.com/) to raise money for pediatric cancer
-research.  After winning first place, they visited Jasmine's at home
+research.  After winning first place, they visited Jasmine at home
 and shared the good news and trophy.  The team renamed themselves "J's
 Bulls", and even though Jasmine passed away before the next year's
 event, they won first place again.  An [interview with the
