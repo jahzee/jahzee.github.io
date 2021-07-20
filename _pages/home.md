@@ -115,3 +115,12 @@ visit other children and rooms of the hospital -- even when confined
 to their beds.  The ["Jasmine"
 robot](https://www.youtube.com/watch?v=LPSswmWUUPM) became a surprise
 hit when Covid-19 prevented all in-person visits.
+
+# Taekwondo
+
+<table>
+<tr>
+<td><img src="/assets/images/taekwondo/jasmine-tkd-inside.png" alt="" width="100%"></td>
+<td><img src="/assets/images/taekwondo/jasmine-tkd-outside.png" alt="" width="100%"></td>
+</tr>
+</table>
