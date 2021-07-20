@@ -118,6 +118,17 @@ hit when Covid-19 prevented all in-person visits.
 
 # Taekwondo
 
+Jasmine started taking Taekwondo lesson's at [Mok's Taekwondo
+School](http://www.moks-tkd.com) under Kukkiwon Black Belt 9th Dan
+Grand Master Charles Mok in January 2010.  Prior to being diagnosed
+with cancer in 2014, Jasmine passed the 3rd Kup examination and
+obtained a red stripe on her blue belt. After months of chemotherapy
+and the removal of her right fibula she regained enough strength in
+her leg to begin practice again.  By August 2015 she earned her red
+belt and a year later -- one month before leaving Hong Kong for the
+last time -- Jasmine passed the 1st Kup exam and proudly earned her
+black stripe on September 24, 2016.
+
 <table>
 <tr>
 <td><img src="/assets/images/taekwondo/jasmine-tkd-inside.png" alt="" width="100%"></td>
