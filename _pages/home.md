@@ -138,5 +138,30 @@ black stripe on September 24, 2016.
 
 # Trixie
 
-Jasmine loves Trixie, an adorable Hong Kong cat we adopted from SPCA in Hong Kong. Trixie
-brought so much joy to Jasmine's life. [Trixie](/trixie/)
+Jasmine was a cat fanatic.  Between YouTube cat videos, cat
+screensavers and wallpaper as well as a cat calendar, Jasmine could
+not get enough cat exposure.  Unfortunately, Hong Kong doctors
+indicated that her home should be pet and plant free during
+chemotherapy treatments.  Bacteria associated with plants and pets
+could bypass her compromised immune system and infect her body.
+
+But once her surgery and chemotherapy treatments were complete,
+Jasmine's first trip was to the [Hong Kong
+SPCA](https://www.spca.org.hk/en/) to adopt a cat.  She
+'interviewed' a few cats and settled on a domestic short-haired female
+named Van.  Even though Van had one fang and a few molars removed by
+the doctors and had a healing wound on her shoulder, her demeanor was
+amiable.  Jasmine took Van home and rechristened her Trixie.
+
+We will never know if Trixie was named after [Knuffle
+Bunny](https://en.wikipedia.org/wiki/Knuffle_Bunny)'s owner or because
+of all the tricks she played on us the first few days. Regardless of
+the source, Trixie loved her new name and reciprocated the gift by
+providing Jasmine with unconditional love and endless joy.
+
+In November 2016, Trixie struggled through a 16-hour dark plane trip
+from Hong Kong to be with Jasmine in New York.  For the next year,
+Trixie was a shining light in Jasmine's struggle against cancer.
+[Trixie](/trixie/) continues to be a lasting gift from Jasmine to her
+family.
+
