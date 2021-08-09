@@ -135,3 +135,8 @@ black stripe on September 24, 2016.
 <td><img src="/assets/images/taekwondo/jasmine-tkd-outside.png" alt="" width="100%"></td>
 </tr>
 </table>
+
+# Trixie
+
+Jasmine loves Trixie, an adorable Hong Kong cat we adopted from SPCA in Hong Kong. Trixie
+brought so much joy to Jasmine's life. [Trixie](/trixie/)
