@@ -15,7 +15,7 @@ galleries:
     image: /assets/images/painting-sculpture/p2.jpg
     url: /painting-sculpture/
   - title: Story Book Collection
-    image: /assets/images/missingMorning/p0.jpg
+    image: /assets/images/missingMorning/drawings/p0.jpg
     url: /storyBook/
   - title: Sketch Collection
     image: /assets/images/animalSketches/p1.jpg

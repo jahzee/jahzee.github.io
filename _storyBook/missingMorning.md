@@ -1,27 +1,28 @@
 ---
 title: "Missing Morning"
-excerpt: "Where is morning?"
+excerpt: "Join Noe and Jeff as they solve the case of the missing morning. Written and illustrated by Jasmine." 
 date: <span class="timestamp-wrapper"><span class="timestamp">&lt;2014-12-25 Thu&gt;</span></span>
 categories: 
 - poems
 tags: 
 - hkis
 header:
-  image: /assets/images/missingMorning/p0.jpg
-  teaser: /assets/images/missingMorning/p0.jpg
+  image: /assets/images/missingMorning/drawings/p0.jpg
+  teaser: /assets/images/missingMorning/drawings/p0.jpg
 ---
 
 {% include breadcrumbs.html %}
   
 <br>
 <div style="float: left; margin-left: 3em;width:300px; height:500px">
-  <img src="/assets/images/missingMorning/p0.jpg" alt="">
+  <img src="/assets/images/missingMorning/drawings/p0.jpg" alt=""/>
+  <a href="/assets/images/missingMorning/Missing Morning.epub">Missing Morning Ebook</a>
 </div>
 
 
 <div style="clear: both;">
   <div style="float: right; margin-left: 3em;width:300px; height:300px">
-    <img src="/assets/images/missingMorning/p1.jpg" alt="">
+    <img src="/assets/images/missingMorning/drawings/p1.jpg" alt="">
   </div>
  <div>
  <br>
@@ -38,7 +39,7 @@ header:
 
 <div style="clear: both;">
   <div style="float: right; margin-left: 3em;width:300px; height:300px">
-    <img src="/assets/images/missingMorning/p2.jpg" alt="">
+    <img src="/assets/images/missingMorning/drawings/p2.jpg" alt="">
   </div>
  <div>
   <br>
@@ -56,7 +57,7 @@ header:
 
 <div style="clear: both;">
   <div style="float: right; margin-left: 3em;width:300px; height:300px">
-    <img src="/assets/images/missingMorning/p3.jpg" alt="">
+    <img src="/assets/images/missingMorning/drawings/p3.jpg" alt="">
   </div>
  <div>
   <br>
@@ -74,7 +75,7 @@ When she was done, she put it in the plate and ate. Then she noticed it was six 
 
 <div style="clear: both;">
   <div style="float: right; margin-left: 3em;width:300px; height:300px">
-    <img src="/assets/images/missingMorning/p4.jpg" alt="">
+    <img src="/assets/images/missingMorning/drawings/p4.jpg" alt="">
   </div>
  <div>
   <br>
@@ -93,7 +94,7 @@ and drove to the junk yard. The junk yard was smelly and had flies all over it. 
 
 <div style="clear: both;">
   <div style="float: right; margin-left: 3em;width:300px; height:300px">
-    <img src="/assets/images/missingMorning/p5.jpg" alt="">
+    <img src="/assets/images/missingMorning/drawings/p5.jpg" alt="">
   </div>
  <div>
   <br>
@@ -110,7 +111,7 @@ The inside of the space ship had lots of dust and other junk and smelly, the win
 
 <div style="clear: both;">
   <div style="float: right; margin-left: 3em;width:300px; height:300px">
-    <img src="/assets/images/missingMorning/p6.jpg" alt="">
+    <img src="/assets/images/missingMorning/drawings/p6.jpg" alt="">
   </div>
  <div>
   <br>
@@ -128,7 +129,7 @@ They saw the steam under them, there was a lot. Three hours later...
 
 <div style="clear: both;">
   <div style="float: right; margin-left: 3em;width:300px; height:300px">
-    <img src="/assets/images/missingMorning/p7.jpg" alt="">
+    <img src="/assets/images/missingMorning/drawings/p7.jpg" alt="">
   </div>
  <div>
   <br>
@@ -144,7 +145,7 @@ into the spaceship and drive back to earth without Jeff.  "I am scared" said Noe
 
 <div style="clear: both;">
   <div style="float: right; margin-left: 3em;width:300px; height:300px">
-    <img src="/assets/images/missingMorning/p8.jpg" alt="">
+    <img src="/assets/images/missingMorning/drawings/p8.jpg" alt="">
   </div>
  <div>
   <br>

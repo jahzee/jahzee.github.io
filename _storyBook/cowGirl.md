@@ -1,6 +1,6 @@
 ---
 title: "Cow Girl"
-excerpt: "Adventure story of a 4 year old girl in Paris, written by Ashley, illustrated by Jasmine" 
+excerpt: "Adventure story of a 4 year old girl in Paris. Written by Ashley, illustrated by Jasmine" 
 header:
   image: /assets/images/cowGirl/p0.jpg
   teaser: /assets/images/cowGirl/p0.jpg
