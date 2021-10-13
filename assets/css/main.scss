@@ -12,6 +12,7 @@ $monospace  : "Dejavu Sans Mono", Monaco, Consolas, "Lucida Console", monospace;
 html {
   font-size: 12px;
 
+
   @include breakpoint($medium) {
     font-size: 14px;
   }
@@ -23,5 +24,17 @@ html {
   @include breakpoint($x-large) {
     font-size: 18px;
   }
+}
+
+details {
+	padding: 0px 30px;
+    bottom-padding:100px;	
+    text-align:justify;
+    text-justify:inter-word;
+}
+details >summary {
+  padding: 2px 0px;
+  border: none;
+  list-style: none;
 }
 
