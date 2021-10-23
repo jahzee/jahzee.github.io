@@ -16,30 +16,34 @@ toc_label: Contents
 <summary>
 <h3 id="trixie">Trixie<a class="header-link" href="#trixie"><i class="fas fa-link"></i></a></h3>
 
-Jasmine was a cat fanatic.  Between YouTube cat videos, cat
+<p>Jasmine was a cat fanatic.  Between YouTube cat videos, cat
 screensavers and wallpaper as well as a cat calendar, Jasmine could
 not get enough cat exposure.  Unfortunately, Hong Kong doctors
 indicated that her home should be pet and plant free during
 chemotherapy treatments.  Bacteria associated with plants and pets
-could bypass her compromised immune system and infect her body.
+could bypass her compromised immune system and infect her body.</p>
 
-But once her surgery and chemotherapy treatments were complete,
-Jasmine's first trip was to the <a href="https://www.spca.org.hk/en/">Hong Kong SPCA</a> to adopt a cat.  She
-'interviewed' a few cats and settled on a domestic short-haired female
-named Van.  Even though Van had one fang and a few molars removed by
-the doctors and had a healing wound on her shoulder, her demeanor was
-amiable.  Jasmine took Van home and rechristened her Trixie.
+<p>But once her surgery and chemotherapy treatments were complete,
+Jasmine's first trip was to the <a
+href="https://www.spca.org.hk/en/">Hong Kong SPCA</a> to adopt a cat.
+She 'interviewed' a few cats and settled on a domestic short-haired
+female named Van.  Even though Van had one fang and a few molars
+removed by the doctors and had a healing wound on her shoulder, her
+demeanor was amiable.  Jasmine took Van home and rechristened her
+Trixie.</p>
 
-We will never know if Trixie was named after <a href="https://en.wikipedia.org/wiki/Knuffle_Bunny">Knuffle Bunny</a>'s owner or because
-of all the tricks she played on us the first few days. Regardless of
-the source, Trixie loved her new name and reciprocated the gift by
-providing Jasmine with unconditional love and endless joy.
+<p>We will never know if Trixie was named after <a
+href="https://en.wikipedia.org/wiki/Knuffle_Bunny">Knuffle Bunny</a>'s
+owner or because of all the tricks she played on us the first few
+days. Regardless of the source, Trixie loved her new name and
+reciprocated the gift by providing Jasmine with unconditional love and
+endless joy.</p>
 
-In November 2016, Trixie struggled through a 16-hour dark plane trip
+<p>In November 2016, Trixie struggled through a 16-hour dark plane trip
 from Hong Kong to be with Jasmine in New York.  For the next year,
-Trixie was a shining light in Jasmine's struggle against cancer.
-<a href="/trixie/">Trixie</a> continues to be a lasting gift from Jasmine to her
-family.
+Trixie was a shining light in Jasmine's struggle against cancer.  <a
+href="/trixie/">Trixie</a> continues to be a lasting gift from Jasmine
+to her family.</p>
 
 </summary>
 </details>
@@ -47,7 +51,7 @@ family.
 
 ## Accomplishments
 
-<details >
+<details>
 <summary>
 <h3 id="scratch">Scratch<a class="header-link" href="#scratch"><i class="fas fa-link"></i></a></h3>
 
@@ -113,7 +117,7 @@ Jasmine is a <a href="https://www.stbaldricks.org/">St. Baldricks</a>
 over $130,000 has been raised for pediatric cancer research by
 <a href="https://www.stbaldricks.org/teams/jasmine">teams</a> shaving their heads
 bald in Jasmine's honor. All funds raised by the events hosted at the
-Hong Kong International School are donated to the <a href="#hk-ccf">Hong Kong Children's Cancer Foundation</a>.
+Hong Kong International School are donated to the Hong Kong Children's Cancer Foundation.
 
 <h3 id="msk-kids">MSK Kids<a class="header-link" href="#msk-kids"><i class="fas fa-link"></i></a></h3>
 
@@ -129,30 +133,67 @@ Over $100,000 has been raised to support the MSK Kids Child Life Services progra
 Jasmine's fight caught the attention of four athletes competing in <a href="https://thed10.com/">the D10</a> to raise money for pediatric cancer
 research.  After winning first place, they visited Jasmine at home and shared the good news and trophy.  The team renamed themselves "J's Bulls", and even though Jasmine passed away before the next year's event, they won first place again.  An <a href="https://thed10.com/blog/j-s-bulls-why-we-do-this-in-the-first-place">interview with the team</a> documents why they trained so hard.  Sadly, the team captain, 
 <a href="https://www.facebook.com/profile.php?id=618505401">Everett Cole Watson</a>, passed away as well, leaving the team wondering if they should compete again.  The team renamed themselves "E-J's Bulls" in memory of Everett and Jasmine, dug deep, and <a href="https://thed10.com/blog/the-d10-nyc-2019-yearbook">won the competition</a> with the three remaining athletes.
+
+
+<h3 id="dragon-tales">Dragon Tales<a class="header-link" href="#dragon-tales"><i class="fas fa-link"></i></a></h3>
+
+The <a href="https://www.hkis.edu.hk/">Hong Kong International School</a> "Dragon
+Tales" publication honored Jasmine's time with the school by
+dedicating two pages for her in the <a href="https://issuu.com/hkisadvancement/docs/final_hkis_dt_winter17_web/94">winter 2017 issue</a>.
+The article includes many pictures of Jasmine enjoying time with her friends and at school events.
 </summary>
 </details>
+
 
 ## In Memory
 
 
 <details>
 <summary>
-<h3 id="hk-ccf">HK CCF<a class="header-link" href="#hk-ccf"><i class="fas fa-link"></i></a></h3>
 
-Hong Kong's <a href="https://www.ccf.org.hk/en/">Children's Cancer Foundation</a>
+<h3 id="the-jasmine-psaris-art-award">The Jasmine Psaris Art Award<a class="header-link" href="#the-jasmine-psaris-art-award"><i class="fas fa-link"></i></a></h3>
+
+<p>Jasmine filled her hours (and days) at the hospital playing [video]
+games, reading books and creating art.  Even before Jasmine was
+diagnosed with cancer, she showed a strong enthusiasm for art class.
+Between ceramic sculptures, sketching and painting, she enjoyed the
+process of designing and creating.  This passion became even stronger
+when she could no longer attend class with her friends.  The
+monotonous hospital hours were perfect for expressing herself through
+art.  Jasmine created a vast <a href="portfolio">portfolio</a> of
+stories and art.</p>
+
+<p>In honor of Jasmine's love of art, the Jasmine Psaris Art Award was
+created to recognize the 8th grade Hong Kong International School
+student that most exemplifies a passion and talent for art.  Past
+recipients of the Jasmine Psaris Art Award include:
+
+<p>
+<ul>
+<li>Anna Kwan (2017/2018)</li>
+<li>Tree Madden (2018/2019)</li>
+<li>Emily Fan (2019/2020)</li>
+<li><a href="https://hk.linkedin.com/in/janepoon1128">Jane Poon</a> (2020/2021)</li>
+</ul>
+
+<h3 id="jasmine-robot">Jasmine Robot<a class="header-link" href="#jasmine-robot"><i class="fas fa-link"></i></a></h3>
+
+<p>Hong Kong's <a href="https://www.ccf.org.hk/en/">Children's Cancer Foundation</a>
 provides caring services for young children with cancer as well as
 their families.  A few examples include the donation of books, toys,
 computers in the pediatric wards of government hospital. In addition,
 they have donated cots for family members to sleep on when staying at
 the hospital.  With the support of donations raised at Hong Kong
 St. Baldricks events, the CCF funds pediatric cancer research with the
-ultimate goal of eradicating the disease.  In appreciation for
-everything the CCF has achieved and in support of all Hong Kong
-pediatric cancer patients, the Psaris family has donated a
-self-driving, two-wheeled videoconferencing robot enabling patients to
-visit other children and rooms of the hospital -- even when confined
-to their beds.  The <a href="https://www.youtube.com/watch?v=LPSswmWUUPM">"Jasmine" robot</a> became a surprise
-hit when Covid-19 prevented all in-person visits.
+ultimate goal of eradicating the disease.</p>
+
+<p>In appreciation for everything the CCF has achieved and in support of
+all Hong Kong pediatric cancer patients, the Psaris family has donated
+a self-driving, two-wheeled videoconferencing robot enabling patients
+to visit other children and rooms of the hospital -- even when
+confined to their beds.  The <a
+href="https://www.youtube.com/watch?v=LPSswmWUUPM">"Jasmine" robot</a>
+became a surprise hit when Covid-19 prevented all in-person visits.</p>
 
 <h3 id="dragon-tales">Dragon Tales<a class="header-link" href="#dragon-tales"><i class="fas fa-link"></i></a></h3>
 
