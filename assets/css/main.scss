@@ -25,6 +25,10 @@ html {
     font-size: 18px;
   }
 }
+p {
+    text-align:justify;
+    text-justify:inter-word;
+  }
 
 details {
 	padding: 0px 30px;
@@ -40,4 +44,22 @@ details >summary {
 details > summary::-webkit-details-marker {
   display: none;
 }
+
+a.my-link:link
+{
+color: blue;
+ background-color: transparent;
+ text-decoration: none;
+}
+a.my-link:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+ }
+a.my-link:hover {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+ }
+
 
