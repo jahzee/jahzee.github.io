@@ -106,6 +106,25 @@ black stripe on September 24, 2016.
 </div>
 
 
+### Center for Talented Youth
+
+Jasmine participated in <a class="my-link" target="_blank"
+href="https://cty.jhu.edu/">Johns Hopkins Center for Talented
+Youth</a> in November 2015.  By scoring in the 95th percentile for
+quantitative skills, she qualified for participation in the CTY
+programs -- both online and in person.  As her hair grew back and she
+regained control of her right ankle, she proudly attended the 2016 <a
+class="my-link" target="_blank"
+href="https://educationdocbox.com/K_6_Educators/68850231-High-honors-students-2015-and-2016-united-states-of-america-international.html">award
+ceremony</a>, walked on stage and accepted her award.
+
+The following summer, Jasmine attended the newly created CTY Summer
+camp in Pok Fu Lam, Hong Kong.  She chose the Introduction to Robotics
+course and spent the summer creating various robots with Lego
+Mindstorms.  Her participation with the CTY program continued after
+she moved back to New York.  She took advantage of their online
+program and thoroughly enjoyed Scratch Programming for Middle School
+Students.
 
 ## Fund Raising 
 
