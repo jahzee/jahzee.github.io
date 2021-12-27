@@ -55,9 +55,9 @@ exclude:
 #   - vendor/ruby/
 
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
-    tracking_id: "UA-177360111-2"
+    tracking_id: "G-7WLPLR7M0E"
 
 # Plugins (previously gems:)
 plugins:
