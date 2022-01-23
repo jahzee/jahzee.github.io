@@ -157,12 +157,11 @@ they won first place again.  An
 <a class="my-link" target="_blank" href="https://thed10.com/blog/j-s-bulls-why-we-do-this-in-the-first-place">interview with the team</a> 
 documents why they trained so hard.  Sadly, the team captain, 
 <a class="my-link" target="_blank" href="https://www.facebook.com/profile.php?id=618505401">Everett Cole Watson</a>, 
-passed away as well, leaving the team wondering if they should compete again.  The team renamed 
+<a class="my-link" target="_blank" href= "https://www.instagram.com/p/Bw3NYc4By-g">passed away</a> as well,
+leaving the team wondering if they should compete again.  The team renamed 
 themselves "E-J's Bulls" in memory of Everett and Jasmine, dug deep, and 
 <a class="my-link" target="_blank" href="https://thed10.com/blog/the-d10-nyc-2019-yearbook">won the competition</a> 
 with the three remaining athletes.
-
-
 
 ## In Memory
 
