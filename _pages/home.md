@@ -130,7 +130,7 @@ Students.
 
 Jasmine is a <a class="my-link" target="_blank" href="https://www.stbaldricks.org/">St. Baldricks</a>
 <a class="my-link" target="_blank" href="https://www.stbaldricks.org/kids/jasminepsaris">honored kid</a>.  Since 2015,
-over $130,000 has been raised for pediatric cancer research by
+over $150,000 has been raised for pediatric cancer research by
 <a class="my-link" target="_blank" href="https://www.stbaldricks.org/teams/jasmine">teams</a> shaving their heads
 bald in Jasmine's honor. All funds raised by the events hosted at the
 Hong Kong International School are donated to the Hong Kong Children's Cancer Foundation.
