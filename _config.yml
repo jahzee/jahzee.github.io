@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until next line without indents
   shortly after her 13th birthday.
 github_username: jahzee
 minimal_mistakes_skin: air
-#search: true
-#search_full_content: true
+search: true
+search_full_content: true
 
 # Build settings
 markdown: kramdown
