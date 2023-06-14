@@ -188,6 +188,8 @@ recipients of the Jasmine Psaris Art Award include:
 <li>Tree Madden (2018/2019)</li>
 <li>Emily Fan (2019/2020)</li>
 <li><a class="my-link" target="_blank" href="https://hk.linkedin.com/in/janepoon1128">Jane Poon</a> (2020/2021)</li>
+<li>Audrey Lee (2021/2022)</li>
+<li>Chris Huang (2022/2023)</li>
 </ul>
 </p>
 
