@@ -253,6 +253,8 @@ art.  Jasmine created a vast [portfolio][] of stories and art.
 [portfolio]: portfolio
 {:target="_blank" .my-link}
 
+#### Award Criteria
+
 The Jasmine Psaris Art Award is established to honour Jasmine’s love
 for art, love for life, and most of all, her indomitable spirit. The
 award will be presented annually at the Grade 8 Celebration to a
@@ -267,15 +269,19 @@ student who demonstrated the following:
 - Respectfulness towards others and their work.
 - A collaborative mind-set in contributing to the work of others.
 
+#### Award Recipients
+
 Past recipients of the Jasmine Psaris Art Award include:
 
-- Anna Kwan (2017/2018)
-- Tree Madden (2018/2019)
-- Emily Fan (2019/2020)
-- [Jane Poon][] (2020/2021)
-- Audrey Lee (2021/2022)
-- Chris Huang (2022/2023)
-- Claire Park (2023/2024)
+| School Year | Recipient     |
+|-------------|---------------|
+| 2017/2018   | Anna Kwan     |
+| 2018/2019   | Tree Madden   |
+| 2019/2020   | Emily Fan     |
+| 2020/2021   | [Jane Poon][] |
+| 2021/2022   | Audrey Lee    |
+| 2022/2023   | Chris Huang   |
+| 2023/2024   | Claire Park   |
 
 [jane poon]: https://hk.linkedin.com/in/janepoon1128
 {:target="_blank" .my-link}
