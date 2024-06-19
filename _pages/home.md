@@ -322,3 +322,20 @@ Jasmine enjoying time with her friends and at school events.
 
 [winter 2017 issue]: https://issuu.com/hkisadvancement/docs/final_hkis_dt_winter17_web/94
 {:target="_blank" .my-link}
+
+### Blog Posts
+
+Jasmine's friend [Ellie Chang][] incorporated Jasmine's death in her [blog
+post][] listing meaningful ways to honor someone's life.
+
+[ellie chang]: https://bold.org/authors/ellie-chang/
+{:target="_blank" .my-link}
+
+[blog post]: https://bold.org/blog/ways-to-honor-someone/
+{:target="_blank" .my-link}
+
+Ellie is also the author of [Skinny Friend][] -- a poem about being a
+great (but skinny) friend.
+
+[skinny friend]: /poems/skinny-friend
+{:target="_blank" .my-link}
