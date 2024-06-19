@@ -310,15 +310,27 @@ when Covid-19 prevented all in-person visits.
 ["jasmine" robot]: https://www.youtube.com/watch?v=LPSswmWUUPM
 {:target="_blank" .my-link}
 
+### Jasmine's Bench
+
+[Hong Kong International School][] installed a memorial bench
+dedicated to Jasmine in the recently upgraded "Peace Garden" in 2022.
+The list of donors can be found in the [2022 report of giving][].
+
+[hong kong international school]: ttps://www.hkis.edu.hk/
+{:target="_blank" .my-link}
+
+[2022 report of giving]: https://pages.hkis.edu.hk/collections/report-of-giving-2022/article-152635
+{:target="_blank" .my-link}
+
+![Jasmine's Bench!](/assets/images/bench.jpeg "Jasmine's Bench")
+
+
 ### Dragon Tales
 
 The [Hong Kong International School][] "Dragon Tales" publication
 honored Jasmine's time with the school by dedicating two pages for her
 in the [winter 2017 issue][].  The article includes many pictures of
 Jasmine enjoying time with her friends and at school events.
-
-[hong kong international school]: ttps://www.hkis.edu.hk/
-{:target="_blank" .my-link}
 
 [winter 2017 issue]: https://issuu.com/hkisadvancement/docs/final_hkis_dt_winter17_web/94
 {:target="_blank" .my-link}
