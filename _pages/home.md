@@ -190,6 +190,7 @@ recipients of the Jasmine Psaris Art Award include:
 <li><a class="my-link" target="_blank" href="https://hk.linkedin.com/in/janepoon1128">Jane Poon</a> (2020/2021)</li>
 <li>Audrey Lee (2021/2022)</li>
 <li>Chris Huang (2022/2023)</li>
+<li>Claire Park (2023/2024)</li>
 </ul>
 </p>
 
