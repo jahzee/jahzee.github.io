@@ -7,91 +7,127 @@ permalink: /
 hidden: true
 ---
 
-
-
 ## Jasmine Loves ... 
 
 ### Trixie
 
-<p>Jasmine was a cat fanatic.  Between YouTube cat videos, cat
+Jasmine was a cat fanatic.  Between YouTube cat videos, cat
 screensavers and wallpaper as well as a cat calendar, Jasmine could
 not get enough cat exposure.  Unfortunately, Hong Kong doctors
 indicated that her home should be pet and plant free during
 chemotherapy treatments.  Bacteria associated with plants and pets
-could bypass her compromised immune system and infect her body.</p>
+could bypass her compromised immune system and infect her body.
 
-<p>But once her surgery and chemotherapy treatments were complete,
-Jasmine's first trip was to the 
-<a class="my-link" target="_blank" href="https://www.spca.org.hk/en/">Hong Kong SPCA</a> to adopt a cat.
+But once her surgery and chemotherapy treatments were complete,
+Jasmine's first trip was to the [Hong Kong SPCA][] to adopt a cat.
 She 'interviewed' a few cats and settled on a domestic short-haired
 female named Van.  Even though Van had one fang and a few molars
 removed by the doctors and had a healing wound on her shoulder, her
 demeanor was amiable.  Jasmine took Van home and rechristened her
-Trixie.</p>
+Trixie.
 
-<p>We will never know if Trixie was named after 
-<a class="my-link" target="_blank" href="https://en.wikipedia.org/wiki/Knuffle_Bunny">Knuffle Bunny</a>'s
-owner or because of all the tricks she played on us the first few
+[hong kong spca]: https://www.spca.org.hk/en/
+{:target="_blank" .my-link}
+
+
+We will never know if Trixie was named after [Knuffle Bunny][]'s owner
+or because of all the tricks she played on us the first few
 days. Regardless of the source, Trixie loved her new name and
 reciprocated the gift by providing Jasmine with unconditional love and
-endless joy.</p>
+endless joy.
 
-<p>In November 2016, Trixie struggled through a 16-hour dark plane trip
-from Hong Kong to be with Jasmine in New York.  For the next year,
-Trixie was a shining light in Jasmine's struggle against cancer.  <a class="my-link" 
-href="/trixie/">Trixie</a> continues to be a lasting gift from Jasmine
-to her family.</p>
+[knuffle bunny]: https://en.wikipedia.org/wiki/Knuffle_Bunny
+{:target="_blank" .my-link}
 
+In November 2016, Trixie struggled through a 16-hour dark plane
+trip from Hong Kong to be with Jasmine in New York.  For the next
+year, Trixie was a shining light in Jasmine's struggle against cancer.
+[Trixie][] continues to be a lasting gift from Jasmine to her
+family.
+
+[trixie]: /trixie/
+{:target="_blank" .my-link}
 
 
 ## Accomplishments
 
 ### Scratch
 
-Jasmine enjoyed showing off her <a class="my-link" target="_blank" href="https://scratch.mit.edu/">Scratch</a> 
-coding skills to her classmates.  Her favorite creation was the 
-<a class="my-link" target="_blank" href="https://scratch.mit.edu/projects/27270597">Cat vs Mouse</a> game.  <a class="my-link" target="_blank" href="https://scratch.mit.edu/projects/37947366/">Basketball Bonanza</a> 
-is a lot of fun too.  Give them a shot and share your high score!
+Jasmine enjoyed showing off her [Scratch][] coding skills to her
+lassmates.  Her favorite creation was the [Cat vs Mouse][] game.
+[Basketball Bonanza][] is a lot of fun too.  Give them a shot and
+share your high score!
 
-<h3 id="prezi">Prezi<a class="header-link" href="#prezi"><i class="fas fa-link"></i></a></h3>
+[scratch]: https://scratch.mit.edu/
+{:target="_blank" .my-link}
 
-Jasmine created many presentations with <a class="my-link" target="_blank" href="https://prezi.com">Prezi</a>.  She began 
-with a <a class="my-link" target="_blank" href="https://prezi.com/b11vjggtgp-p/my-timeline/?present=1">timeline of her life</a> 
-documenting her major milestones through April 2014.  In May, she made 
-a <a class="my-link" target="_blank" href="https://prezi.com/1pwbj8k_kl-0/steve-jobs/?present=1">presentation about Steve Jobs</a>.  After 
-spending the first half of her 5th grade receiving treatment at 
-<a class="my-link" target="_blank" href="https://www8.ha.org.hk/qmh/">Queen Mary Hospital</a>, 
-she returned to school and designed another presentation about 
-<a class="my-link" target="_blank" href="https://prezi.com/jazichaxl0uc/why-do-languages-become-extinct/?present=1">why some languages become extinct</a>.
+[cat vs mouse]: https://scratch.mit.edu/projects/27270597
+{:target="_blank" .my-link}
+
+[basketball  bonanza]: https://scratch.mit.edu/projects/37947366
+{:target="_blank" .my-link}
+
+### Prezi
+
+Jasmine created many presentations with [Prezi][].  She began with a
+[timeline of her life][] documenting her major milestones through
+April 2014.  In May, she made a [presentation about Steve Jobs][].
+After spending the first half of her 5th grade receiving treatment at
+[Queen Mary Hospital][], she returned to school and designed another
+presentation about [why some languages become extinct][].
+
+[prezi]: https://prezi.com
+{:target="_blank" .my-link}
+
+[timeline of her life]: https://prezi.com/b11vjggtgp-p/my-timeline/?present=1
+{:target="_blank" .my-link}
+
+[presentation about steve jobs]: https://prezi.com/1pwbj8k_kl-0/steve-jobs/?present=1
+{:target="_blank" .my-link}
+
+[queen mary hospital]: https://www8.ha.org.hk/qmh/
+{:target="_blank" .my-link}
+
+[why some languages become extinct]: https://prezi.com/jazichaxl0uc/why-do-languages-become-extinct/?present=1
+{:target="_blank" .my-link}
 
 
 ### Cally and Bean
 
-To pass the time during chemotherapy treatments in 
-<a class="my-link" target="_blank" href="https://www.ha.org.hk/qmh/">Queen Mary Hospital's</a>
-<a class="my-link" target="_blank" href="https://paed.hku.hk/services/public_area/service/UPAM_K8_PE_001_Ward_Info.pdf">Children's Cancer Center</a>,
-Jasmine enjoyed reading mystery novels.  Inspired to create her own,
-she wrote three stories about best friends Cally and Bean (and a pet
-hamster named Nams).  After drawing the illustrations, she worked with
-her mother and father to publish the stories. <i>Cally and Bean: Middle
-School Mysteries</i> is available in
-<a class="my-link" target="_blank" href="https://www.amazon.com/Cally-Bean-Middle-School-Mysteries-ebook/dp/B077W1MH1T">English</a>
-and <a class="my-link" target="_blank" href="https://www.amazon.com/%E5%87%B1%E8%8E%89%E5%92%8C%E8%B1%86%E8%B1%86-Traditional-Jasmine-L-Psaris-ebook/dp/B08F6Z48RH">Traditional Chinese</a>.
-The book is dedicated "For everyone in K8N" which is the pediatric
-cancer ward on the North side of the 8th floor of Block K in Queen Mary Hospital.
+To pass the time during chemotherapy treatments in [Queen Mary
+Hospital][]'s [Children's Cancer Center][], Jasmine enjoyed reading
+mystery novels.  Inspired to create her own, she wrote three stories
+about best friends Cally and Bean (and a pet hamster named Nams).
+After drawing the illustrations, she worked with her mother and father
+to publish the stories. *Cally and Bean: Middle School Mysteries* is
+available in [English][] and [Traditional Chinese][].  The book is
+dedicated "For everyone in K8N" which is the pediatric cancer ward on
+the North side of the 8th floor of Block K in Queen Mary Hospital.
+
+[children's cancer center]: https://paed.hku.hk/services/public_area/service/UPAM_K8_PE_001_Ward_Info.pdf
+{:target="_blank" .my-link}
+
+[english]: https://www.amazon.com/Cally-Bean-Middle-School-Mysteries-ebook/dp/B077W1MH1T
+{:target="_blank" .my-link}
+
+[traditional chinese]: https://www.amazon.com/%E5%87%B1%E8%8E%89%E5%92%8C%E8%B1%86%E8%B1%86-Traditional-Jasmine-L-Psaris-ebook/dp/B08F6Z48RH
+{:target="_blank" .my-link}
 
 ### Taekwondo
 
-Jasmine started taking Taekwondo lesson's 
-at <a class="my-link" target="_blank" href="http://www.moks-tkd.com">Mok's Taekwondo School</a> 
-under Kukkiwon Black Belt 9th Dan Grand Master Charles Mok in January 2010.  Prior 
-to being diagnosed with cancer in 2014, Jasmine passed the 3rd Kup examination 
-and btained a red stripe on her blue belt. After months of chemotherapy
-and the removal of her right fibula she regained enough strength in
-her leg to begin practice again.  By August 2015 she earned her red
-belt and a year later -- one month before leaving Hong Kong for the
-last time -- Jasmine passed the 1st Kup exam and proudly earned her
-black stripe on September 24, 2016.
+Jasmine started taking Taekwondo lesson's at [Mok's Taekwondo
+School][] under Kukkiwon Black Belt 9th Dan Grand Master Charles Mok
+in January 2010.  Prior to being diagnosed with cancer in 2014,
+Jasmine passed the 3rd Kup examination and btained a red stripe on her
+blue belt. After months of chemotherapy and the removal of her right
+fibula she regained enough strength in her leg to begin practice
+again.  By August 2015 she earned her red belt and a year later -- one
+month before leaving Hong Kong for the last time -- Jasmine passed the
+1st Kup exam and proudly earned her black stripe on September 24,
+2016.
+
+[mok's taekwondo school]: http://www.moks-tkd.com
+{:target="_blank" .my-link}
 
 <style>
   .side-by-side {overflow: auto; margin-left: -1%!important;}
@@ -103,18 +139,20 @@ black stripe on September 24, 2016.
 <a> <img src="/assets/images/taekwondo/jasmine-tkd-outside.png"> </a>
 </div>
 
-
 ### Center for Talented Youth
 
-Jasmine participated in <a class="my-link" target="_blank"
-href="https://cty.jhu.edu/">Johns Hopkins Center for Talented
-Youth</a> in November 2015.  By scoring in the 95th percentile for
-quantitative skills, she qualified for participation in the CTY
-programs -- both online and in person.  As her hair grew back and she
-regained control of her right ankle, she proudly attended the 2016 <a
-class="my-link" target="_blank"
-href="https://educationdocbox.com/K_6_Educators/68850231-High-honors-students-2015-and-2016-united-states-of-america-international.html">award
-ceremony</a>, walked on stage and accepted her award.
+Jasmine participated in [Johns Hopkins Center for Talented Youth][] in
+November 2015.  By scoring in the 95th percentile for quantitative
+skills, she qualified for participation in the CTY programs -- both
+online and in person.  As her hair grew back and she regained control
+of her right ankle, she proudly attended the 2016 [award ceremony][],
+walked on stage and accepted her award.
+
+[johns hopkins center for talented youth]: https://cty.jhu.edu/
+{:target="_blank" .my-link}
+
+[award ceremony]: https://educationdocbox.com/K_6_Educators/68850231-High-honors-students-2015-and-2016-united-states-of-america-international.html
+{:target="_blank" .my-link}
 
 The following summer, Jasmine attended the newly created CTY Summer
 camp in Pok Fu Lam, Hong Kong.  She chose the Introduction to Robotics
@@ -126,112 +164,155 @@ Students.
 
 ## Fund Raising 
 
-### St. Baldricks
+### St. Baldrick's
 
-Jasmine is a <a class="my-link" target="_blank" href="https://www.stbaldricks.org/">St. Baldricks</a>
-<a class="my-link" target="_blank" href="https://www.stbaldricks.org/kids/jasminepsaris">honored kid</a>.  Since 2015,
-over $175,000 has been raised for pediatric cancer research by
-<a class="my-link" target="_blank" href="https://www.stbaldricks.org/teams/jasmine">teams</a> shaving their heads
-bald in Jasmine's honor. All funds raised by the events hosted at the
-Hong Kong International School are donated to the Hong Kong Children's Cancer Foundation.
+Jasmine is a [St. Baldrick's][] [honored kid][]. Since 2015, over
+$175,000 has been raised for pediatric cancer research by [teams][]
+shaving their heads bald in Jasmine's honor. All funds raised by the
+events hosted at the Hong Kong International School are donated to the
+Hong Kong Children's Cancer Foundation.
+
+[st. baldrick's]: https://www.stbaldricks.org/
+{:target="_blank" .my-link}
+
+[honored kid]: https://www.stbaldricks.org/kids/jasminepsaris
+{:target="_blank" .my-link}
+
+[teams]: https://www.stbaldricks.org/teams/jasmine
+{:target="_blank" .my-link}
 
 ### MSK Kids
 
-<a class="my-link" target="_blank" href="https://www.mskcc.org/pediatrics">MSK Kids</a>
-<a class="my-link" target="_blank" href="https://www.mskcc.org/pediatrics/experience/life-pediatrics">Child Life Services</a>
-program brought Jasmine joy during her final year in New York.  Upon her death, an outpouring of support made 
-<a class="my-link" target="_blank" href="http://mskcc.convio.net/goto/jasminepsaris2020">Jasmine's Giving Page</a> 
-the <a class="my-link" target="_blank" href="https://secure2.convio.net/mskcc/site/TR/GivingPages/AnnualGiving;jsessionid=00000000.app20018a?pg=complist&fr_id=2903">top funded campaingn in 2017</a>.
-Over $147,000 has been raised to support the MSK Kids Child Life Services program.  A
-<a class="my-link" target="_blank" href="https://www.youtube.com/watch?v=IbvJsB2oMcA">plaque</a> 
-in Jasmine's memory has been placed in the main hall of 
-<a class="my-link" target="_blank" href="https://goo.gl/maps/nXhpdeKG6Mp87r8S6">Memorial Sloan Kettering Cancer Center</a>.
+[MSK Kids][] [Child Life Services][] program brought Jasmine joy
+during her final year in New York.  Upon her death, an outpouring of
+support made [Jasmine's Giving Page][] the [top funded campaign in
+2017][].  Over $147,000 has been raised to support the MSK Kids Child
+Life Services program.  A [plaque][] in Jasmine's memory has been
+placed in the main hall of [Memorial Sloan Kettering Cancer Center][].
+
+[msk kids]: https://www.mskcc.org/pediatrics
+{:target="_blank" .my-link}
+
+[child life services]: https://www.mskcc.org/pediatrics/experience/life-pediatrics
+{:target="_blank" .my-link}
+
+[jasmine's giving page]: http://mskcc.convio.net/goto/jasminepsaris2020
+{:target="_blank" .my-link}
+
+[top funded campaign in 2017]: https://secure2.convio.net/mskcc/site/TR/GivingPages/AnnualGiving;jsessionid=00000000.app20018a?pg=complist&fr_id=2903
+{:target="_blank" .my-link}
+
+[plaque]: https://www.youtube.com/watch?v=IbvJsB2oMcA
+{:target="_blank" .my-link}
+
+[memorial sloan kettering cancer center]: https://goo.gl/maps/nXhpdeKG6Mp87r8S6
+{:target="_blank" .my-link}
 
 ### D10
 
-Jasmine's fight caught the attention of four athletes competing in 
-<a class="my-link" target="_blank" href="https://thed10.com/">the D10</a> to raise money for pediatric cancer
-research.  After winning first place, they visited Jasmine at home and shared the good news and trophy.  The 
-team renamed themselves "J's Bulls", and even though Jasmine passed away before the next year's event, 
-they won first place again.  An 
-<a class="my-link" target="_blank" href="https://thed10.com/blog/j-s-bulls-why-we-do-this-in-the-first-place">interview with the team</a> 
-documents why they trained so hard.  Sadly, the team captain, 
-<a class="my-link" target="_blank" href="https://www.facebook.com/profile.php?id=618505401">Everett Cole Watson</a>, 
-<a class="my-link" target="_blank" href= "https://www.instagram.com/p/Bw3NYc4By-g">passed away</a> as well,
-leaving the team wondering if they should compete again.  The team renamed 
-themselves "E-J's Bulls" in memory of Everett and Jasmine, dug deep, and 
-<a class="my-link" target="_blank" href="https://thed10.com/blog/the-d10-nyc-2019-yearbook">won the competition</a> 
-with the three remaining athletes.
+Jasmine's fight caught the attention of four athletes competing in
+[the D10][] to raise money for pediatric cancer research.  After
+winning first place, they visited Jasmine at home and shared the good
+news and trophy.  The team renamed themselves "J's Bulls", and even
+though Jasmine passed away before the next year's event, they won
+first place again.  An [interview with the team][] documents why they
+trained so hard.  Sadly, the team captain, [Everett Cole Watson][],
+[passed away][] as well, leaving the team wondering if they should
+compete again.  The team renamed themselves "E-J's Bulls" in memory of
+Everett and Jasmine, dug deep, and [won the competition][] with the
+three remaining athletes.
+
+[the d10]: https://thed10.com/
+{:target="_blank" .my-link}
+
+[interview with the team]: https://thed10.com/blog/j-s-bulls-why-we-do-this-in-the-first-place
+{:target="_blank" .my-link}
+
+[everett cole watson]: https://www.facebook.com/profile.php?id=618505401
+{:target="_blank" .my-link}
+
+[passed away]: https://www.instagram.com/p/Bw3NYc4By-g
+{:target="_blank" .my-link}
+
+[won the competition]: https://thed10.com/blog/the-d10-nyc-2019-yearbook
+{:target="_blank" .my-link}
 
 ## In Memory
 
-
 ### The Jasmine Psaris Art Award
 
-<p>Jasmine filled her hours (and days) at the hospital playing [video]
+Jasmine filled her hours (and days) at the hospital playing [video]
 games, reading books and creating art.  Even before Jasmine was
 diagnosed with cancer, she showed a strong enthusiasm for art class.
 Between ceramic sculptures, sketching and painting, she enjoyed the
 process of designing and creating.  This passion became even stronger
 when she could no longer attend class with her friends.  The
 monotonous hospital hours were perfect for expressing herself through
-art.  Jasmine created a vast <a class="my-link" href="portfolio">portfolio</a> of
-stories and art.</p>
+art.  Jasmine created a vast [portfolio][] of stories and art.
 
-<p>The Jasmine Psaris Art Award is established to honour Jasmine’s love
+[portfolio]: portfolio
+{:target="_blank" .my-link}
+
+The Jasmine Psaris Art Award is established to honour Jasmine’s love
 for art, love for life, and most of all, her indomitable spirit. The
 award will be presented annually at the Grade 8 Celebration to a
-student who demonstrated the following:</p>
+student who demonstrated the following:
 
-<ul>
-<li>An invested interest in
-creating art and the desire to pursue further studies connected to
-art.</li>
-<li>The ability to overcome challenges and persevere in the creative
-process.</li>
-<li>Proficiency in technique and craftsmanship.</li>
-<li>Initiative and flexibility in developing concepts and ideas.</li>
-<li>Respectfulness towards others and their work.</li>
-<li>A collaborative mind-set in contributing to the work of others.</li>
-</ul>
+- An invested interest in creating art and the desire to pursue
+  further studies connected to art.
+- The ability to overcome challenges and persevere in the creative
+  process.
+- Proficiency in technique and craftsmanship.
+- Initiative and flexibility in developing concepts and ideas.
+- Respectfulness towards others and their work.
+- A collaborative mind-set in contributing to the work of others.
 
-<p>Past recipients of the Jasmine Psaris Art Award include:</p>
+Past recipients of the Jasmine Psaris Art Award include:
 
-<ul>
-<li>Anna Kwan (2017/2018)</li>
-<li>Tree Madden (2018/2019)</li>
-<li>Emily Fan (2019/2020)</li>
-<li><a class="my-link" target="_blank" href="https://hk.linkedin.com/in/janepoon1128">Jane Poon</a> (2020/2021)</li>
-<li>Audrey Lee (2021/2022)</li>
-<li>Chris Huang (2022/2023)</li>
-<li>Claire Park (2023/2024)</li>
-</ul>
+- Anna Kwan (2017/2018)
+- Tree Madden (2018/2019)
+- Emily Fan (2019/2020)
+- [Jane Poon][] (2020/2021)
+- Audrey Lee (2021/2022)
+- Chris Huang (2022/2023)
+- Claire Park (2023/2024)
 
+[jane poon]: https://hk.linkedin.com/in/janepoon1128
+{:target="_blank" .my-link}
 
 ### Jasmine Robot
 
-<p>Hong Kong's <a class="my-link" target="_blank" href="https://www.ccf.org.hk/en/">Children's Cancer Foundation</a>
-provides caring services for young children with cancer as well as
-their families.  A few examples include the donation of books, toys,
-computers in the pediatric wards of government hospital. In addition,
-they have donated cots for family members to sleep on when staying at
-the hospital.  With the support of donations raised at Hong Kong
-St. Baldricks events, the CCF funds pediatric cancer research with the
-ultimate goal of eradicating the disease.</p>
+Hong Kong's [Children's Cancer Foundation][] provides caring services
+for young children with cancer as well as their families.  A few
+examples include the donation of books, toys, computers in the
+pediatric wards of government hospital. In addition, they have donated
+cots for family members to sleep on when staying at the hospital.
+With the support of donations raised at Hong Kong St. Baldrick's
+events, the CCF funds pediatric cancer research with the ultimate goal
+of eradicating the disease.
 
-<p>In appreciation for everything the CCF has achieved and in support of
+[children's cancer foundation]: https://www.ccf.org.hk/en/
+{:target="_blank" .my-link}
+
+In appreciation for everything the CCF has achieved and in support of
 all Hong Kong pediatric cancer patients, the Psaris family has donated
 a self-driving, two-wheeled videoconferencing robot enabling patients
 to visit other children and rooms of the hospital -- even when
-confined to their beds.  The <a class="my-link" target="_blank"
-href="https://www.youtube.com/watch?v=LPSswmWUUPM">"Jasmine" robot</a>
-became a surprise hit when Covid-19 prevented all in-person visits.</p>
+confined to their beds.  The ["Jasmine" robot][] became a surprise hit
+when Covid-19 prevented all in-person visits.
+
+["jasmine" robot]: https://www.youtube.com/watch?v=LPSswmWUUPM
+{:target="_blank" .my-link}
 
 ### Dragon Tales
 
-The <a class="my-link" target="_blank" href="https://www.hkis.edu.hk/">Hong Kong International School</a> "Dragon
-Tales" publication honored Jasmine's time with the school by dedicating two pages for her in the 
-<a class="my-link" target="_blank" href="https://issuu.com/hkisadvancement/docs/final_hkis_dt_winter17_web/94">winter 2017 issue</a>.
-The article includes many pictures of Jasmine enjoying time with her friends and at school events.
+The [Hong Kong International School][] "Dragon Tales" publication
+honored Jasmine's time with the school by dedicating two pages for her
+in the [winter 2017 issue][].  The article includes many pictures of
+Jasmine enjoying time with her friends and at school events.
 
+[hong kong international school]: ttps://www.hkis.edu.hk/
+{:target="_blank" .my-link}
 
+[winter 2017 issue]: https://issuu.com/hkisadvancement/docs/final_hkis_dt_winter17_web/94
+{:target="_blank" .my-link}
