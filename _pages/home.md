@@ -178,10 +178,24 @@ monotonous hospital hours were perfect for expressing herself through
 art.  Jasmine created a vast <a class="my-link" href="portfolio">portfolio</a> of
 stories and art.</p>
 
-<p>In honor of Jasmine's love of art, the Jasmine Psaris Art Award was
-created to recognize the 8th grade Hong Kong International School
-student that most exemplifies a passion and talent for art.  Past
-recipients of the Jasmine Psaris Art Award include:
+<p>The Jasmine Psaris Art Award is established to honour Jasmine’s love
+for art, love for life, and most of all, her indomitable spirit. The
+award will be presented annually at the Grade 8 Celebration to a
+student who demonstrated the following:</p>
+
+<ul>
+<li>An invested interest in
+creating art and the desire to pursue further studies connected to
+art.</li>
+<li>The ability to overcome challenges and persevere in the creative
+process.</li>
+<li>Proficiency in technique and craftsmanship.</li>
+<li>Initiative and flexibility in developing concepts and ideas.</li>
+<li>Respectfulness towards others and their work.</li>
+<li>A collaborative mind-set in contributing to the work of others.</li>
+</ul>
+
+<p>Past recipients of the Jasmine Psaris Art Award include:</p>
 
 <ul>
 <li>Anna Kwan (2017/2018)</li>
@@ -192,7 +206,7 @@ recipients of the Jasmine Psaris Art Award include:
 <li>Chris Huang (2022/2023)</li>
 <li>Claire Park (2023/2024)</li>
 </ul>
-</p>
+
 
 ### Jasmine Robot
 
