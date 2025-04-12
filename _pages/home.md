@@ -186,7 +186,7 @@ Hong Kong Children's Cancer Foundation.
 [MSK Kids][] [Child Life Services][] program brought Jasmine joy
 during her final year in New York.  Upon her death, an outpouring of
 support made [Jasmine's Giving Page][] the [top funded campaign in
-2017][].  Over $147,000 has been raised to support the MSK Kids Child
+2017][].  Over $177,000 has been raised to support the MSK Kids Child
 Life Services program.  A [plaque][] in Jasmine's memory has been
 placed in the main hall of [Memorial Sloan Kettering Cancer Center][].
 
