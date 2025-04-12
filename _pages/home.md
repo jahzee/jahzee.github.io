@@ -239,7 +239,7 @@ three remaining athletes.
 
 ## In Memory
 
-### The Jasmine Psaris Art Award
+### The Jasmine Psaris Memorial Endowed Art Award
 
 Jasmine filled her hours (and days) at the hospital playing [video]
 games, reading books and creating art.  Even before Jasmine was
@@ -255,10 +255,10 @@ art.  Jasmine created a vast [portfolio][] of stories and art.
 
 #### Award Criteria
 
-The Jasmine Psaris Art Award is established to honour Jasmine’s love
-for art, love for life, and most of all, her indomitable spirit. The
-award will be presented annually at the Grade 8 Celebration to a
-student who demonstrated the following:
+The Jasmine Psaris Memorial Endowed Art Award is established to
+honour Jasmine’s love for art, love for life, and most of all, her
+indomitable spirit. The award will be presented annually at the Grade
+8 Celebration to a student who demonstrated the following:
 
 - An invested interest in creating art and the desire to pursue
   further studies connected to art.
@@ -271,7 +271,8 @@ student who demonstrated the following:
 
 #### Award Recipients
 
-Past recipients of the Jasmine Psaris Art Award include:
+Past recipients of the Jasmine Psaris Memorial Endowed Art Award
+include:
 
 | School Year | Recipient     |
 |-------------|---------------|
