@@ -283,6 +283,7 @@ include:
 | 2021/2022   | Audrey Lee    |
 | 2022/2023   | Chris Huang   |
 | 2023/2024   | Claire Park   |
+| 2024/2025   | Tess Kellar   |
 
 [jane poon]: https://hk.linkedin.com/in/janepoon1128
 {:target="_blank" .my-link}
