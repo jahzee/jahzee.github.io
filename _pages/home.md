@@ -144,7 +144,7 @@ month before leaving Hong Kong for the last time -- Jasmine passed the
 Jasmine participated in [Johns Hopkins Center for Talented Youth][] in
 November 2015.  By scoring in the 95th percentile for quantitative
 skills, she qualified for participation in the CTY programs -- both
-online and in person.  As her hair grew back and she regained control
+online and in person.  As her hair grew back, and she regained control
 of her right ankle, she proudly attended the 2016 [award ceremony][],
 walked on stage and accepted her award.
 
