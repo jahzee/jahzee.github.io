@@ -284,6 +284,7 @@ include:
 | 2022/2023   | Chris Huang   |
 | 2023/2024   | Claire Park   |
 | 2024/2025   | Tess Kellar   |
+| 2025/2026   | Peyton Man    |
 
 
 [jane poon]: https://hk.linkedin.com/in/janepoon1128
