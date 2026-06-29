@@ -166,7 +166,7 @@ Students.
 
 ### St. Baldrick's
 
-Jasmine is a [St. Baldrick's][] [honored kid][]. Since 2015, over
+Jasmine is a [St. Baldrick's][] [honored kid][]. As of 2026, over
 $216,000 has been raised for pediatric cancer research by [teams][]
 shaving their heads bald in Jasmine's honor. All funds raised by the
 events hosted at the Hong Kong International School are donated to the
@@ -178,7 +178,7 @@ Hong Kong Children's Cancer Foundation.
 [honored kid]: https://www.stbaldricks.org/kids/jasminepsaris
 {:target="_blank" .my-link}
 
-[teams]: https://www.stbaldricks.org/teams/jasmine
+[teams]: https://www.stbaldricks.org/teams/jasmine2026
 {:target="_blank" .my-link}
 
 ### MSK Kids
